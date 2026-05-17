@@ -1,0 +1,2 @@
+# M1 scaffold has no mandatory runtime dependencies.
+# M2a may add candidate detector libraries after evaluation.
