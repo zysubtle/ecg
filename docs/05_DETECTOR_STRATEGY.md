@@ -63,3 +63,13 @@ ecg_rr_tool/detectors/factory.py
 10. 是否存在维护风险；
 11. 是否能在示例 CSV 上通过 smoke test；
 12. 在“不保留自研 fallback”前提下的风险。
+
+## M2a 评估记录引用
+
+第三方 detector 评估结果记录在：
+
+```text
+docs/06_THIRD_PARTY_EVAL.md
+```
+
+该记录仅提供 M2a 推荐方案，最终 detector 选择仍需 Owner S0 决策确认。
